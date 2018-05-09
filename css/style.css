@@ -107,6 +107,14 @@ section {
 	margin: auto;
 	text-align: center;
 }
+@media screen and (max-width:600px){
+	h1 { display: none; }
+	#dw_countdown {
+		display: none;
+	}
+}@media screen and (min-width:600px){
+	h2 { display: none; }
+}
 
 h1, h2 {
 	font-family: 'Montserrat', sans-serif;
