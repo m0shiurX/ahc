@@ -6,7 +6,7 @@ $(document).ready(function() {
 	var currentDate = new Date();
 
 	// Set some date in the future. In this case, it's always Jan 1
-	var futureDate  = new Date(currentDate.getFullYear(), 04, 12);
+	var futureDate  = new Date(currentDate.getFullYear(), 04, 13);
 	
 	// console.log(futureDate);
 	// console.log(currentDate);
